@@ -4,7 +4,7 @@ cosmic-code:
 
 # Add dsa label to any change within the 'dsa' package
 dsa:
-- dsa/*
+- cosmic-code/dsa/*
 
 # Add dsa label to any change within the 'networking' package
 networking:
