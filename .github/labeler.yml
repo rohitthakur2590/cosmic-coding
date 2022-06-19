@@ -14,7 +14,10 @@ python:
 - python/*
 
 file_processing:
-- python/file_processing*
+- python/file_processing/*
+
+youtube:
+- python/youtube_channel/*
 
 # Add databas label to any change within the 'database' package
 database:
