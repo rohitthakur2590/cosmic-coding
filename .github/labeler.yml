@@ -10,6 +10,12 @@ dsa:
 networking:
 - networking/*
 
+python:
+- python/*
+
+file_processing:
+- python/file_processing*
+
 # Add databas label to any change within the 'database' package
 database:
 - database/*
